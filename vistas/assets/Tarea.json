@@ -1,0 +1,26 @@
+[
+    {
+        "Coche_id":"1",
+        "Marca":"vw",
+        "Modelo":"caddy",
+        "matricula":"1234 tgb",
+        "fabricacion":"2016",
+        "itv":"43452"
+    },
+    {
+        "Coche_id":"2",
+        "Marca":"opel",
+        "Modelo":"astral",
+        "matricula":"9876 zbu",
+        "fabricacion":"2010",
+        "itv":"43689"
+    },
+    {
+        "Coche_id":"3",
+        "Marca":"bmw",
+        "Modelo":"x6",
+        "matricula":"5874 log",
+        "fabricacion":"2017",
+        "itv":"43344"
+    }
+]
