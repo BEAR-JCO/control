@@ -1,5 +1,5 @@
 <?php
-    const SERVERURL = "http://localhost/Direcci%c3%b3nProyectos/control/";
+    const SERVERURL = "http://localhost/DirecciónProyectos/control/";
     const COMPANY ="SISTEMAS DE ADMINISTRACION";
     const MONEDA = "$";
     
