@@ -36,7 +36,7 @@
     </main>
     <?php
         }
-        include_once "./vistas/inc/script1.php"; 
+        include_once "./vistas/inc/script1.php";
     ?>
 </body>
 </html>

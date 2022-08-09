@@ -10,13 +10,13 @@
 <div class="container-fluid">
 	<ul class="full-box list-unstyled page-nav-tabs">
 		<li>
-			<a class="active" href="client-new.html"><i class="fas fa-plus fa-fw"></i> &nbsp; AGREGAR CLIENTE</a>
+			<a class="active" href="client-new"><i class="fas fa-plus fa-fw"></i> &nbsp; AGREGAR TAREA</a>
 		</li>
 		<li>
-			<a href="client-list.html"><i class="fas fa-clipboard-list fa-fw"></i> &nbsp; LISTA DE CLIENTES</a>
+			<a href="client-list"><i class="fas fa-clipboard-list fa-fw"></i> &nbsp; LISTA DE TAREAS</a>
 		</li>
 		<li>
-			<a href="client-search.html"><i class="fas fa-search fa-fw"></i> &nbsp; BUSCAR CLIENTE</a>
+			<a href="client-search"><i class="fas fa-search fa-fw"></i> &nbsp; BUSCAR TAREA</a>
 		</li>
 	</ul>	
 </div>
@@ -24,12 +24,12 @@
 <div class="container-fluid">
 	<form action="" class="form-neon" autocomplete="off">
 		<fieldset>
-			<legend><i class="fas fa-user"></i> &nbsp; Información básica</legend>
+			<legend><i class="fas fa-user"></i> &nbsp; Información de la tarea</legend>
 			<div class="container-fluid">
 				<div class="row">
 					<div class="col-12 col-md-6">
 						<div class="form-group">
-							<label for="cliente_dni" class="bmd-label-floating">DNI</label>
+							<label for="cliente_dni" class="bmd-label-floating">DNT</label>
 							<input type="text" pattern="[0-9-]{1,27}" class="form-control" name="cliente_dni_reg" id="cliente_dni" maxlength="27">
 						</div>
 					</div>
@@ -47,13 +47,13 @@
 					</div>
 					<div class="col-12 col-md-4">
 						<div class="form-group">
-							<label for="cliente_telefono" class="bmd-label-floating">Teléfono</label>
+							<label for="cliente_telefono" class="bmd-label-floating">Tarea</label>
 							<input type="text" pattern="[0-9()+]{8,20}" class="form-control" name="cliente_telefono_reg" id="cliente_telefono" maxlength="20">
 						</div>
 					</div>
 					<div class="col-12 col-md-4">
 						<div class="form-group">
-							<label for="cliente_direccion" class="bmd-label-floating">Dirección</label>
+							<label for="cliente_direccion" class="bmd-label-floating">Descripcion</label>
 							<input type="text" pattern="[a-zA-Z0-9áéíóúÁÉÍÓÚñÑ().,#\- ]{1,150}" class="form-control" name="cliente_direccion_reg" id="cliente_direccion" maxlength="150">
 						</div>
 					</div>

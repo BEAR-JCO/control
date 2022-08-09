@@ -12,7 +12,10 @@
 
     <!-- jQuery Custom Content Scroller V3.1.5 -->
     <script src="/DirecciónProyectos/control/vistas/js/jquery.mCustomScrollbar.concat.min.js"></script>
-
+    <!-- graficas -->
+    <script src="/DirecciónProyectos/control/vistas/js/mes.js"></script>
+    
+    
     <!-- Bootstrap Material Design V4.0 -->
     <script src="/DirecciónProyectos/control/vistas/js/bootstrap-material-design.min.js"></script>
     <script>
