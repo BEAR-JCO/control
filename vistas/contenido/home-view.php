@@ -3,44 +3,23 @@
 	<h3 class="text-left">
 		<i class="fab fa-dashcube fa-fw"></i> &nbsp; DASHBOARD
 	</h3>
-	<p class="text-justify">
-		Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit nostrum rerum animi natus beatae ex. Culpa blanditiis tempore amet alias placeat, obcaecati quaerat ullam, sunt est, odio aut veniam ratione.
-	</p>
+	
 </div>
 
 <!-- Content -->
 <div class="full-box tile-container">
 	<a href="client-new" class="tile">
-		<div class="tile-tittle">Clientes</div>
+		<div class="tile-tittle">AGREGAR TAREA</div>
 		<div class="tile-icon">
 			<i class="fas fa-users fa-fw"></i>
 			<p>5 Registrados</p>
 		</div>
 	</a>
 	
-	<a href="item-list" class="tile">
-		<div class="tile-tittle">Items</div>
-		<div class="tile-icon">
-			<i class="fas fa-pallet fa-fw"></i>
-			<p>9 Registrados</p>
-		</div>
-	</a>
+	
 
-	<a href="reservation-reservation" class="tile">
-		<div class="tile-tittle">Reservaciones</div>
-		<div class="tile-icon">
-			<i class="far fa-calendar-alt fa-fw"></i>
-			<p>30 Registradas</p>
-		</div>
-	</a>
 
-	<a href="reservation-pending" class="tile">
-		<div class="tile-tittle">Prestamos</div>
-		<div class="tile-icon">
-			<i class="fas fa-hand-holding-usd fa-fw"></i>
-			<p>200 Registrados</p>
-		</div>
-	</a>
+	
 
 	<a href="reservation-list" class="tile">
 		<div class="tile-tittle">Finalizados</div>
@@ -50,7 +29,7 @@
 		</div>
 	</a>
 
-	<a href="user-list" class="tile">
+	<a href="user-new" class="tile">
 		<div class="tile-tittle">Usuarios</div>
 		<div class="tile-icon">
 			<i class="fas fa-user-secret fa-fw"></i>

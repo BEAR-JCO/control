@@ -18,6 +18,7 @@
 
 		if($vistas=="login" || $vistas=="404"){
 			require_once "./vistas/contenido/".$vistas."-view.php";
+            
 		}else{
 	?>
     <!-- Main container -->

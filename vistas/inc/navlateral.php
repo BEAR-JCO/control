@@ -22,9 +22,7 @@
                         <li>
                             <a href="client-list"><i class="fas fa-clipboard-list fa-fw"></i> &nbsp; Lista de Asignación de las tareas</a>
                         </li>
-                        <li>
-                            <a href="client-search"><i class="fas fa-search fa-fw"></i> &nbsp; Buscar tarea</a>
-                        </li>
+                        
                     </ul>
                 </li>
                 <!--Analisis-->
@@ -35,18 +33,7 @@
                         <li>
                             <a href="item-new"><i class="fas fa-plus fa-fw"></i> &nbsp; Agregar Analisis</a>
                         </li>
-                        <li>
-                            <a href="item-list"><i class="fas fa-clipboard-list fa-fw"></i> &nbsp; Analisis de semanal</a>
-                        </li>
-                        <li>
-                            <a href="item-list"><i class="fas fa-clipboard-list fa-fw"></i> &nbsp; Analisis de quinsenal</a>
-                        </li>
-                        <li>
-                            <a href="item-list"><i class="fas fa-clipboard-list fa-fw"></i> &nbsp; Analisis de mes</a>
-                        </li>
-                        <li>
-                            <a href="item-search"><i class="fas fa-search fa-fw"></i> &nbsp; Buscar Analisis</a>
-                        </li>
+                       
                     </ul>
                 </li>
                 <!--costo-->
@@ -60,12 +47,7 @@
                         <li>
                             <a href="reservation-list"><i class="fas fa-clipboard-list fa-fw"></i> &nbsp; Lista de pagos</a>
                         </li>
-                        <li>
-                            <a href="reservation-search"><i class="fas fa-search-dollar fa-fw"></i> &nbsp; Buscar pagos</a>
-                        </li>
-                        <li>
-                            <a href="reservation-pending"><i class="fas fa-hand-holding-usd fa-fw"></i> &nbsp; Pagos total</a>
-                        </li>
+                       
                     </ul>
                 </li>
                 <!--usuarios-->
@@ -79,9 +61,7 @@
                         <li>
                             <a href="user-list"><i class="fas fa-clipboard-list fa-fw"></i> &nbsp; Lista de usuarios</a>
                         </li>
-                        <li>
-                            <a href="user-search"><i class="fas fa-search fa-fw"></i> &nbsp; Buscar usuario</a>
-                        </li>
+                       
                     </ul>
                 </li>
                 <!-- empresa-->

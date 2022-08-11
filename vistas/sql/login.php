@@ -6,7 +6,7 @@ $contraseña=$_POST['contraseña'];
 //$ generamos dis varuables un ade condecion y la otra a consulta de la tabla
 // vamos a llamar los dos variable para ajecutar
 $conexion=mysqli_connect("localhost","root","","administracion");
-$consulta="SELECT * FROM usuario WHERE correo='$usuario' and contrase='$contraseña'";
+$consulta="SELECT * FROM usuarios WHERE correo='$usuario' and contrase='$contraseña'";
 $resultado=mysqli_query($conexion,$consulta);
 $filas=mysqli_num_rows($resultado);
 

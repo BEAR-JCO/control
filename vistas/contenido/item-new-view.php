@@ -8,12 +8,7 @@
         <li>
             <a class="active" href="item-new.html"><i class="fas fa-plus fa-fw"></i> &nbsp; AGREGAR ANALISIS</a>
         </li>
-        <li>
-            <a href="item-list"><i class="fas fa-clipboard-list fa-fw"></i> &nbsp; LISTA DE ANALISIS</a>
-        </li>
-        <li>
-            <a href="item-search"><i class="fas fa-search fa-fw"></i> &nbsp; BUSCAR ANALISIS</a>
-        </li>
+       
     </ul>
 </div>
 
